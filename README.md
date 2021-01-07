@@ -85,3 +85,9 @@ NetBeans and JavaFX was used to create the graphical user interface.
 
 #### Pressing the Solve Button displays all the words that are in the Word Puzzle.
 ![MAIN_SCREEN](README-images/solvePuzzleVid.gif)
+
+---
+
+## Author Info
+
+* LinkedIn - [Ayub Shahab](https://www.linkedin.com/in/ayub-shahab-98b950202/)
