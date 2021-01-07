@@ -33,7 +33,7 @@ NetBeans and JavaFX was used to create the graphical user interface.
 
 ## Applicatoin Running
 
-### * This is the main screen when the application is opened.
+### - This is the main screen when the application is opened.
 <img align="left" alt="Tasks" width="100%" src="https://github.com/ayubS13/Periodic-Table-Helper/blob/main/README-images/mainScreen.PNG?raw=true" />
 
 
