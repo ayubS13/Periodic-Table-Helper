@@ -50,3 +50,13 @@ NetBeans and JavaFX was used to create the graphical user interface.
 
 #### The student can sort by elements names, weights, or atomic number.
 ![MAIN_SCREEN](README-images/sortingTypes.jpg)
+
+---
+
+#### This is the Quiz page where various information about an element is displayed.
+![MAIN_SCREEN](README-images/quizImage.jpg)
+
+---
+
+#### The skip button can be used to skip the current element.
+![MAIN_SCREEN](README-images/skipButton.jpg)
