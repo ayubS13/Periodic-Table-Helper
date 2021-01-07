@@ -9,7 +9,7 @@
 
 - [About](#about)
 - [Implementation](#implementation)
-- [Application Running](#application)
+- [Application Running](#application-running)
 - [Author Info](#author-info)
 
 ## About
@@ -31,7 +31,7 @@ Techniques Used:
 
 NetBeans and JavaFX was used to create the graphical user interface.
 
-## Applicatoin Running
+## Application Running
 
 #### This is the main screen when the application is opened.
 ![MAIN_SCREEN](README-images/mainScreen.PNG)
