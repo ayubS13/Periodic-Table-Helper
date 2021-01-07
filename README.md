@@ -9,7 +9,7 @@
 
 - [About](#about)
 - [Implementation](#implementation)
-- [Demo](#demo)
+- [Application Running](#application running)
 - [Author Info](#author-info)
 
 ## About
@@ -31,6 +31,8 @@ Techniques Used:
 
 NetBeans and JavaFX was used to create the graphical user interface.
 
-## Demo
+## Applicatoin Running
 
-Visual demo of the application
+This is the main screen when the application is opened.
+#### Tasks Page:
+<img align="left" alt="Tasks" width="100%" src="https://github.com/ayubS13/Periodic-Table-Helper/blob/main/Pictures/mainScreen.PNG?raw=true" />
