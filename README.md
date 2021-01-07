@@ -33,17 +33,17 @@ NetBeans and JavaFX was used to create the graphical user interface.
 
 ## Applicatoin Running
 
-###This is the main screen when the application is opened.
+### This is the main screen when the application is opened.
 <img align="left" alt="Tasks" width="100%" src="https://github.com/ayubS13/Periodic-Table-Helper/blob/main/README-images/mainScreen.PNG?raw=true" />
 
 
-###This is where the student reviews the various elements.
+### This is where the student reviews the various elements.
 <img align="left" alt="Tasks" width="100%" src="https://github.com/ayubS13/Periodic-Table-Helper/blob/main/README-images/overView.PNG?raw=true" />
 
 
-###The student can sort by different types of elements.
+### The student can sort by different types of elements.
 <img align="left" alt="Tasks" width="100%" src="https://github.com/ayubS13/Periodic-Table-Helper/blob/main/README-images/sortTypes.PNG?raw=true" />
 
 
-###The student can sort by elements names, weights, or atomic number.
+### The student can sort by elements names, weights, or atomic number.
 <img align="left" alt="Tasks" width="100%" src="https://github.com/ayubS13/Periodic-Table-Helper/blob/main/README-images/sortingTypes.jpg?raw=true" />
