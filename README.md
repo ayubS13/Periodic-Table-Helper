@@ -33,20 +33,20 @@ NetBeans and JavaFX was used to create the graphical user interface.
 
 ## Applicatoin Running
 
-### This is the main screen when the application is opened.
+#### This is the main screen when the application is opened.
 ![MAIN_SCREEN](README-images/mainScreen.PNG)
 
 ---
 
-* This is where the student reviews the various elements.
+#### This is where the student reviews the various elements.
 ![MAIN_SCREEN](README-images/overView.PNG)
 
 ---
 
-* The student can sort by different types of elements.
+#### The student can sort by different types of elements.
 ![MAIN_SCREEN](README-images/sortTypes.PNG)
 
 ---
 
-* The student can sort by elements names, weights, or atomic number.
+#### The student can sort by elements names, weights, or atomic number.
 ![MAIN_SCREEN](README-images/sortingTypes.jpg)
