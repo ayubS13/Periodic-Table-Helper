@@ -34,7 +34,7 @@ NetBeans and JavaFX was used to create the graphical user interface.
 ## Applicatoin Running
 
 * This is the main screen when the application is opened.
-![MAIN_SCREEN](README-images/mainScreen.png)
+![MAIN_SCREEN](README-images/mainScreen.PNG)
 
 ---
 
