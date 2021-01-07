@@ -60,3 +60,28 @@ NetBeans and JavaFX was used to create the graphical user interface.
 
 #### The skip button can be used to skip the current element.
 ![MAIN_SCREEN](README-images/skipButton.jpg)
+
+---
+
+#### The game over screen displays all the elements that a students gets right or skipped.
+![MAIN_SCREEN](README-images/gameOverImage.jpg)
+
+---
+
+#### In the Word Search game, students can find words horizontally.
+![MAIN_SCREEN](README-images/horizontalWords.jpg)
+
+---
+
+#### The students can also search for words diagonally.
+![MAIN_SCREEN](README-images/diagonalWords.jpg)
+
+---
+
+#### The found words are displayed on the right as well as the words that are still missing.
+![MAIN_SCREEN](README-images/findingWords.jpg)
+
+---
+
+#### Pressing the Solve Button displays all the words that are in the Word Puzzle.
+![MAIN_SCREEN](README-images/solvePuzzleVid.gif)
