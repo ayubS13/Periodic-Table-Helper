@@ -9,7 +9,7 @@
 
 - [About](#about)
 - [Implementation](#implementation)
-- [Application Running](#application running)
+- [Application Running](#application)
 - [Author Info](#author-info)
 
 ## About
